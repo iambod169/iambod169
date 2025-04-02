@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iambod169
+- 👋 Hi, I’m Balogun @iambod169 a ✊🏾 🇫🇷 architect of 🇸🇱🇳🇬 origins
 - 👀 I’m interested in BIM, architecture, social justice and programming 
 - 🌱 I’m currently learning how to use GitHUB in my field as a BIM Consultant
 - 💞️ I’m looking to collaborate on Revit plug-ins, ideas on ways to manage projects, leveling up !
